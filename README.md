@@ -1,4 +1,10 @@
-### Hi there 👋
+##### Hi, I'm Ahmed 👋 👨🏼‍💻 
+
+*💬 Ask me about Swift, Objective-C, IOS, C++
+
+#### 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-ahmedkomsan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-komsan/)](https://www.linkedin.com/in/ahmed-komsan/) [![Medium Badge](https://img.shields.io/badge/-ahmed.komsan2012-lightgrey?logo=Medium&logoColor=black&link=https://medium.com/@ahmed.komsan2012/)](https://medium.com/@ahmed.komsan2012/) [![dev.to Badge](https://img.shields.io/badge/-ahmed_komsan12-DCDCDC?logo=dev.to&logoColor=black&link=https://dev.to/ahmed_komsan12/)](https://dev.to/ahmed_komsan12/) [![Twitter](https://img.shields.io/twitter/follow/ahmed_komsan12.svg?style=social&label=ahmed_komsan12)](https://twitter.com/ahmed_komsan12)
+
 
 <!--
 **Ahmed-Komsan/Ahmed-Komsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
