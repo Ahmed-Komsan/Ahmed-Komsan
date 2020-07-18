@@ -3,7 +3,8 @@
 *💬 Ask me about Swift, Objective-C, IOS, C++
 
 #### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-ahmedkomsan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-komsan/)](https://www.linkedin.com/in/ahmed-komsan/) [![Medium Badge](https://img.shields.io/badge/-ahmed.komsan2012-lightgrey?logo=Medium&logoColor=black&link=https://medium.com/@ahmed.komsan2012/)](https://medium.com/@ahmed.komsan2012/) [![dev.to Badge](https://img.shields.io/badge/-ahmed_komsan12-DCDCDC?logo=dev.to&logoColor=black&link=https://dev.to/ahmed_komsan12/)](https://dev.to/ahmed_komsan12/) [![Twitter](https://img.shields.io/twitter/follow/ahmed_komsan12.svg?style=social&label=ahmed_komsan12)](https://twitter.com/ahmed_komsan12)
+
+[![Linkedin Badge](https://img.shields.io/badge/-ahmed--komsan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-komsan/)](https://www.linkedin.com/in/ahmed-komsan/) [![dev.to Badge](https://img.shields.io/badge/-ahmed_komsan12-lightgrey?logo=dev.to&logoColor=black&link=https://dev.to/ahmed_komsan12/)](https://dev.to/ahmed_komsan12/) [![Medium Badge](https://img.shields.io/badge/-ahmed.komsan2012-lightgrey?logo=Medium&logoColor=black&link=https://medium.com/@ahmed.komsan2012/)](https://medium.com/@ahmed.komsan2012/) [![Gmail Badge](https://img.shields.io/badge/-ahmedkomsan0@gmail.com-C71610?logo=Gmail&logoColor=white&link=mailto:ahmedkomsan0@gmail.com)](mailto:ahmedkomsan0@gmail.com)
 
 
 <!--
