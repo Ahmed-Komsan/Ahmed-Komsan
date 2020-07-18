@@ -1,10 +1,10 @@
 ##### Hi, I'm Ahmed 👋 👨🏼‍💻 
 
-*💬 Ask me about Swift, Objective-C, IOS, C++
+💬 Ask me about Swift, Objective-C, IOS, C++
 
 #### 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ahmed--komsan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-komsan/)](https://www.linkedin.com/in/ahmed-komsan/) [![dev.to Badge](https://img.shields.io/badge/-ahmed_komsan12-lightgrey?logo=dev.to&logoColor=black&link=https://dev.to/ahmed_komsan12/)](https://dev.to/ahmed_komsan12/) [![Medium Badge](https://img.shields.io/badge/-ahmed.komsan2012-lightgrey?logo=Medium&logoColor=black&link=https://medium.com/@ahmed.komsan2012/)](https://medium.com/@ahmed.komsan2012/) [![Gmail Badge](https://img.shields.io/badge/-ahmedkomsan0@gmail.com-C71610?logo=Gmail&logoColor=white&link=mailto:ahmedkomsan0@gmail.com)](mailto:ahmedkomsan0@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ahmed--komsan-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-komsan/)](https://www.linkedin.com/in/ahmed-komsan/) [![dev.to Badge](https://img.shields.io/badge/-ahmed_komsan12-lightgrey?logo=dev.to&logoColor=black&link=https://dev.to/ahmed_komsan12/)](https://dev.to/ahmed_komsan12/) [![Gmail Badge](https://img.shields.io/badge/-ahmedkomsan0@gmail.com-C71610?logo=Gmail&logoColor=white&link=mailto:ahmedkomsan0@gmail.com)](mailto:ahmedkomsan0@gmail.com)
 
 
 <!--
