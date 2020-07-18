@@ -1,5 +1,7 @@
 ##### Hi, I'm Ahmed 👋 👨🏼‍💻 
 
+👨🏼‍💻 I’m currently open to collaborate on any open source projects related to IOS Dev, so reach me out if you have a good one.
+
 💬 Ask me about Swift, Objective-C, IOS, C++
 
 #### 📫 How to reach me:
